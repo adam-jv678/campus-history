@@ -4,7 +4,7 @@ title: Coronado Hall
 author: Adam Velasquez
 category: Dormitory                  # change to a category from the student guide
 header-image: coronado-hall-archive.jpg   # the filename of your own image
-header-caption: UNM Digital Archive, Dormitory - Coronado Hall - looking east across dirt lot
+header-caption: UNM Digital Archive - Dormitory - Coronado Hall - looking east across dirt lot
 
 # Fill these in later, once your research is under way.
 card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
