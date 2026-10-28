@@ -2,8 +2,8 @@
 # Change these five lines as soon as you copy this starter.
 title: Coronado Hall
 author: Adam Velasquez
-category: Dormitory                  # change to a category from the student guide
-header-image: coronado-hall-archive.jpg   # the filename of your own image
+category: Dormitory
+header-image: coronado-hall-archive.jpg
 header-caption: UNM Digital Archive - Dormitory - Coronado Hall - looking east across dirt lot
 
 # Fill these in later, once your research is under way.
